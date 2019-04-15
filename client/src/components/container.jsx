@@ -11,7 +11,6 @@ class Container extends Component {
     render() {
         return (
             <div>
-                <a href="sms:7038535683?body=hello">Call</a>
             </div>
         );
     }
